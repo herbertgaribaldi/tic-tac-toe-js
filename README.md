@@ -59,7 +59,3 @@ Clone the repo in your terminal writting:
     Your app is ready to be deployed!
 
 #### `npm run eject`
-
----
-
-#### Or visit ## link do github pages ## to test!
